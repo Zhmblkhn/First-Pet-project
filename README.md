@@ -1,4 +1,4 @@
-<h1 align="center">Frist Pet-project</h1>
+<h1 align="center">Frist Site</h1>
 <span align="center">It is the my first official Pet-project based on HTML.</span> 
 <span align="center">Soon will be developed version with CSS!</span>
 <span align="center">The project is copy of site about Houston city in Wikipedia, but I thing it is the best practise for Junior!</span>
